@@ -1,0 +1,6 @@
+{
+	"PORT": 5000,
+	"MONGO_URI": "mongodb+srv://evergloam:evergloam@cluster0.b2foq.mongodb.net/mern?retryWrites=true&w=majority",
+	"JWT_SECRET": "mern-course from youtube",
+	"BASE_URL" : "http://localhost:5000"
+}
